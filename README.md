@@ -15,7 +15,7 @@ This project focuses on analyzing weekly sales data for sales executives across 
 * **Interactive Filtering:** Implemented regional **Slicers** to allow cross-filtering across all 4 reporting matrices simultaneously with a single click.
 
 ## Dashboard Preview
-![Sales Performance Dashboard](dashboard_preview)
+![Sales Performance Dashboard](dashboard_preview/Full-Dashboard.JPG)
 
 ## Key Business Insights Derived
 1. **Regional Variance:** Filtering by regions instantly exposes which geographical areas are hitting their collective targets and which areas need operational support.
